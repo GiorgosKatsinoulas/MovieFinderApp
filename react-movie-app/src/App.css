@@ -1,0 +1,33 @@
+.App {
+  text-align: center;
+}
+.Card-main{
+  width: 400px;
+  height: 700px;
+}
+.Photo {
+  height: auto;
+  max-height: 400px;
+  width: auto;
+}
+.BackPhoto {
+  height: auto;
+  max-height: 400px;
+  width: auto;
+  border-radius: 20%;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 10vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
